@@ -9,4 +9,5 @@ for i in range(26,1,-1):
         if (i // n * n == i):
             toplam += n
     liste.append(toplam)
+
 print(liste)
