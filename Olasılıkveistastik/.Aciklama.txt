@@ -1,1 +1,1 @@
-1- Bir Paranın 10 defa atıldığında yazı ya da tura geldiği durumları listeleyen uygulama
+1.py- Bir Paranın 10 defa atıldığında yazı ya da tura geldiği durumları listeleyen uygulama
