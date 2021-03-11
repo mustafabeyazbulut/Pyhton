@@ -7,3 +7,6 @@
 	fonksiyondur.
 6.py-	100 kişi içinden 1 kişinin korona olduğunu varsayarsak, sorulan 20 kişiden kaç kişinin korona olabileceğini
 	listeleyen algoritma
+7.py-	100 kişi içinden 1 kişinin korona olduğunu varsayarsak, 20 bin kişi içinde kaç korona vakası olduğunu
+	listeleyen algoritma
+8.py-	10 defa atılan 2 zarın sayılarının birbirinden farklı ya da aynı olması durumunu listeleyen algoritma
