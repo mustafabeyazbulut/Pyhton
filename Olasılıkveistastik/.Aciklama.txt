@@ -10,3 +10,7 @@
 7.py-	100 kişi içinden 1 kişinin korona olduğunu varsayarsak, 20 bin kişi içinde kaç korona vakası olduğunu
 	listeleyen algoritma
 8.py-	10 defa atılan 2 zarın sayılarının birbirinden farklı ya da aynı olması durumunu listeleyen algoritma
+9.py-	bir torbada her iki yüzü siyah, ve her iki yüzü beyaz ve bir yüzü siyah bir yüzü beyaz olan üç kart vardır. 
+	bir tanesini bakmadan çekip masanın üzerine koyuyoruz, diğer arka yüzü görmüyoruz, siyah gelme olasılığı nedir?
+10.py-	bir torbada her iki yüzü siyah, ve her iki yüzü beyaz ve bir yüzü siyah bir yüzü beyaz olan üç kart vardır.
+	masaya koyduğumuz ( arkasını görmüyoruz ) siyah ise kartın arkasında beyaz olma ihtimali nedir?
